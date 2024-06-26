@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project done as part of a course at the UTC implements traffic sign detection and classification algorithms as part of the SY32 project at UTC. The goal is to develop a system that can reliably identify different types of traffic signs from camera images, including warning signs, speed limits, and traffic lights.
+This project implements traffic sign detection and classification algorithms as part of the SY32 project at UTC. The goal is to develop a system that can reliably identify different types of traffic signs from camera images, including warning signs, speed limits, and traffic lights.
 
 Two technical approaches were explored:
 
